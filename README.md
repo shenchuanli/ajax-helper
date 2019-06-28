@@ -1,7 +1,2 @@
-asdfsdfthis is charli
-
-ea# ajax-helper
-this is charlieshen
-
-love this js.
+it's just a js tool to help you send http request to you server.
 
